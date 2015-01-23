@@ -5,3 +5,4 @@ format d:
 format E:
 mkdir test
 rm test
+rm -rf tessssst

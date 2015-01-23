@@ -4,3 +4,4 @@ source showdme_dev.properties
 format d:
 format E:
 mkdir test
+rm test

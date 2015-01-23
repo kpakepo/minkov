@@ -1,5 +1,12 @@
 This file will test merge conflicts
 kpakepo has added this line
 minkov has added this line
+<<<<<<< HEAD
 KPAKEPO
+=======
+<<<<<<< HEAD
+>>>>>>> f39f4109d625f6aea90f443d87766a3ce6ff6bf2
 MINKOV
+=======
+KPAKEPO
+>>>>>>> 7585493... Changed merge file

@@ -14,6 +14,6 @@ b, strong {
   font-weight: bold;
 }
 
-i {
+i, a {
   font-style: italic;
 }

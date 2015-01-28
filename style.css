@@ -14,6 +14,10 @@ b, strong, weak {
   font-weight: bold;
 }
 
-a, i {
+i, a {
   font-style: italic;
+}
+
+new {
+  new: zero;
 }

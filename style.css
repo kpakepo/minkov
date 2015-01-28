@@ -6,11 +6,11 @@ body {
   font-style: italic;
 }
 
-p, b, a {
+p, b {
   border: 1px solid red;
 }
 
-b, strong {
+b, strong, weak {
   font-weight: bold;
 }
 

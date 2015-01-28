@@ -1,2 +1,0 @@
-# minkov
-No description yet

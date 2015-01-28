@@ -6,7 +6,7 @@ body {
   font-style: italic;
 }
 
-p, b {
+p, b, v {
   border: 1px solid red;
 }
 

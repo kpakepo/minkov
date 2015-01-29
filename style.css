@@ -10,3 +10,7 @@ body {
 p {
   background: blue;
 }
+
+b {
+  font-weight: bold;
+}
